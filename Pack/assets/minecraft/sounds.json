@@ -1,0 +1,10 @@
+{
+  "custom.youfailed": {
+    "sounds": [
+      {
+        "name": "custom/youfailed",
+        "stream": false
+      }
+    ]
+  }
+}
